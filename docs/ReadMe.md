@@ -1,5 +1,8 @@
 Hier kunt u alle bestanden vinden die ik voor dit project gemaakt heb!
 
+Snapchat filter video demo:
+https://youtu.be/RvEJEhBf_g0
+
 Trello bord:
 https://trello.com/b/KVRiLPxR/kunstspeeltuin
 
